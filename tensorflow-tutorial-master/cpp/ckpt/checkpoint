@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jwei/tensorflow_c/tensorflow-tutorial-master/cpp/ckpt/nn_model.ckpt"
+all_model_checkpoint_paths: "/home/jwei/tensorflow_c/tensorflow-tutorial-master/cpp/ckpt/nn_model.ckpt"

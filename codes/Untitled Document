@@ -1,0 +1,6 @@
+/home/jwei/nav_ws/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu
+
+./cpptensorflow /home/jwei/tensorflow_c/data/4.jpg /home/jwei/tensorflow_c/codes/model/ inputs outputs
+
+/home/jwei/nav_ws/devel/lib/python2.7/dist-packages:/opt/ros/kinetic/lib/python2.7/dist-packages
+

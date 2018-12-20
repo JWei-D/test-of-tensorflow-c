@@ -1,0 +1,3 @@
+/home/jwei/tensorflow_c/codes/build/CMakeFiles/edit_cache.dir
+/home/jwei/tensorflow_c/codes/build/CMakeFiles/rebuild_cache.dir
+/home/jwei/tensorflow_c/codes/build/CMakeFiles/cpptensorflow.dir
